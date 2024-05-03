@@ -1,0 +1,27 @@
+# Target extension
+target_extensions = [
+    ".c",
+    ".h",
+    ".txt",
+    ".md",
+    ".toml",
+    ".cpp",
+    ".hpp"
+]
+
+# Target file name
+target_filenames = [
+    "Makefile"
+]
+
+# File name to exclude
+excluded_files = [
+    "toml.c",
+    "toml.h"
+]
+
+# Directories to exclude
+excluded_directories = [
+    "build",
+    "toml11"
+]
