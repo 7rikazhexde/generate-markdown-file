@@ -1,0 +1,6 @@
+[submodule "generate-markdown-file-c/tomlc99"]
+	path = generate-markdown-file-c/tomlc99
+	url = https://github.com/cktan/tomlc99.git
+[submodule "generate-markdown-file-cpp/toml11"]
+	path = generate-markdown-file-cpp/toml11
+	url = https://github.com/ToruNiina/toml11.git
